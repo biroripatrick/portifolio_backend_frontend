@@ -1,0 +1,120 @@
+
+.section21{
+    font-family: 'Times New Roman', Times, serif;
+    height: 550px;
+    width:500px;
+    margin-top: 23px;
+    margin-left:50px;
+    font-size:26px; 
+    background-color: rgb(97, 99, 100);
+    border: 2vh solid #ffffff;
+    width: 590px;
+}
+.type ,
+.ordered ol{
+    margin-left: 39px;
+}
+.type{
+    margin-top:25px;
+}
+.ordered{
+    margin-top:70px;
+    color: #ffffff;
+}
+.section22{
+    height: 550px;
+    width: 590px;
+    margin-top: 23px;
+    width:650px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder; 
+    font-size:26px;
+    background-color: rgb(200, 206, 200);
+    border: 2vh solid rgb(66, 65, 66);
+    margin-left: 37px;
+}
+
+.container-list{
+    display: flex;
+    position: relative;
+}
+.email1{
+    height:50px;
+    margin-left:23px;
+    padding-left:20px;
+    width: 230px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: rgb(28, 74, 226);
+    border-radius: 9px;
+    font-size: 24px;
+}
+.form1{
+    margin-left: 80px;
+    /* background-color: rgb(29, 31, 31); */
+    margin-top:115px;
+    width: 530px;
+    height: 350px;
+    /* border: 1vh solid rgb(197, 112, 159); */
+}
+.name1{
+    margin-top: 39px;
+    font-size: 25px;
+    height: 50px;
+    padding-left:20px;
+    width: 230px;
+    margin-left:7px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    border-radius: 9px;
+    color: rgb(28, 74, 226);
+}
+.message{
+    margin-top: 19px;
+    border-radius: 9px;
+    height: 120px;
+    width: 490px;
+    padding-left:20px;
+    margin-left:7px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: rgb(28, 74, 226);
+    font-size:26px;
+}
+.button-field{
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 9px;
+    font-size:28px;
+}
+.container-header{
+    background-image: url("../img/best.PNG");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.type{
+    color: rgb(20, 19, 20);
+    font-size: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+.button-field:hover{
+    color: rgb(40, 21, 150);
+}
+.button-field:hover{
+    background-color: rgb(168, 117, 117);
+}
+.koko{
+    color: white;
+    
+}
+.ordered ol{
+ /* color: rgb(27, 25, 25); */
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bolder;
+ font-size:22px;
+}
+/* Alert */
+.alert-success {
+    width: 70vh;
+}

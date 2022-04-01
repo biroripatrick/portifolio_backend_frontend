@@ -1,0 +1,78 @@
+.form-inputs{
+    color: red;
+}
+.form-container{
+    background-color: blue;
+}
+.form-content-right{
+   margin-left: 280px;
+   padding-top:17px;
+}
+.form-content-right Form{
+    text-align: center;
+}
+.form-label{
+    margin-top:10px;
+}
+.pass{
+    border: 1vh solid rgb(20, 136, 4);
+}
+.form-btn{
+    border-radius:7px;
+    height:34px;
+    width: 80px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.form-btn:hover{
+    background-color: brown;
+    
+}
+.password3 a{
+    text-decoration: none;
+
+}
+.password3 a:hover{
+    box-shadow: inset 34px 2px 25px 24px brown;
+    color: black;
+}
+.forget-password li{
+    list-style: none;
+}
+.password3 a{
+    border-radius:7px;
+    margin-left:20px;
+    font-size:20px;
+}
+.contentsn{
+    color: whitesmoke;
+    margin-left:14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: larger;
+}
+.form167{
+    background-image: url("../img/home.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    box-shadow: inset 34px 2px 25px 24px rgb(23, 39, 182);
+    text-align: center;
+    margin-top:5px;
+    border-radius:19px;
+    width: 690px;
+    height: 530px;
+}
+.form-content-right{
+     height: 700px;
+}
+.form-inputs{ 
+    border-radius: 8px; 
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.form-inputs input{
+    color: rgb(75, 19, 230);
+    box-shadow: inset 0px 0px 25px rgb(214, 15, 15);
+}

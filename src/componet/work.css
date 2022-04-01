@@ -1,0 +1,103 @@
+.works{
+    height: 500px;
+}
+.projects{
+    margin-top: 45px;
+    color: aliceblue;
+    margin-left: 180px;
+    width:540px;
+    /* background-color: deepskyblue; */
+}
+.project-button{
+    text-align: center;
+    /* background-color: blueviolet; */
+}
+.works{
+    display: flex;
+}
+.project-button{
+    margin-top: 45px;
+    margin-left: 50px;
+    color: aliceblue;
+    width:540px;
+}
+.button13{
+    /* background-color: blue; */
+    margin-top: 33px;
+    font-size: 20px;
+    height: 69px;
+}
+.button22{
+    /* background-color: rgb(255, 0, 191); */
+    margin-top: 33px;
+    font-size: 20px;
+    height: 69px;
+}
+.button3{
+    /* background-color: rgb(148, 148, 156); */
+    margin-top: 33px;
+    font-size: 20px;
+    height: 69px;
+}
+.button4{
+    /* background-color: rgb(122, 165, 42); */
+    margin-top: 63px;
+    font-size: 20px;
+    height: 39px;
+}
+.student{
+    margin-top: 15px;
+    background-color: rgb(83, 81, 81);
+    border: 2vh solid rgb(66, 65, 66);
+}
+.student:hover{
+    background-color: orange;
+}
+.student a{
+    text-decoration: none;
+    color: black;
+}
+.CRUP{
+    margin-top: 15px;
+    background-color: skyblue;
+    border: 2vh solid rgb(29, 189, 63);
+    /* width: 150px;
+    height: 40px; */
+}
+.paty{
+    margin-top:27px;
+}
+.emails{
+    margin-top:27px;
+}
+.CRUP a{
+    text-decoration: none;
+    color: black;
+}
+.CRUP:hover{
+    background-color: aqua;
+}
+.cv{
+    margin-top: 15px;
+    background-color: lavender;
+    border: 2vh solid rgb(35, 160, 182);
+}
+.cv:hover{
+    background-color: blueviolet;
+}
+.cv a{
+    text-decoration: none;
+    color: black;
+}
+.online{
+    margin-top: 15px;
+    background-color: gray;
+    border: 2vh solid rgb(192, 24, 192);
+}
+.online:hover{
+    background-color: darkseagreen;
+}
+.online a{
+    text-decoration: none;
+    color: black;
+}
